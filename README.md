@@ -2,7 +2,8 @@
 
 # dependencies
 1. python3
-also install requests library:
+
+### also install requests library:
 ```bash
  pip install requests
 ```
