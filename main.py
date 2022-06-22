@@ -90,7 +90,7 @@ def delete():
             for line in lines:
                 usr = line.split()
                 if usr[0] != user:
-                    f.write(line)
+                    fw.write(line)
                 if usr[0] == user:
                     checkexist = True
     if not checkexist:
