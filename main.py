@@ -43,7 +43,7 @@ def check_password(stored_password, user_password):
 
 #login
 def login():
-    user = input("Name: ")
+    user = input("User: ")
     passw = input("Password: ")
     for line in open("users.txt","r").readlines():
         usr = line.split()
