@@ -28,8 +28,11 @@ python main.py --getbycn nanital
 ```
 ## command to use
 -h, --help         : show this help message and exit
+
 --login          : to login
+
 --logout         :  to logout
+
 --create         : create new user
 
 --update         : update user
