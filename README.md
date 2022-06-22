@@ -46,3 +46,6 @@ python main.py --getbycn nanital
 --getbyll lon lat:  get the data through longitude and latitude
 
 --getbycn city   :  get the data through cityname
+
+
+#### made and tested it on only linux so don't know if there will be problem when using in windows
